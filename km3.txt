@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>ABOUT US</title>
+      <style>
+.myDiv {
+  border: 5px outset lemonchiffon;
+  background-color:palegoldenrod ;    
+  text-align: center;
+  text-transform: uppercase;
+}
+.hiDiv {
+  border: 5px outset lemonchiffon;
+  background-color:palegoldenrod;
+  text-align: left;
+  text-transform: uppercase;
+}
+.element {
+  display: inline-block;
+  width: 40px;
+  height: 130px;
+  background: thistle;
+  border-width: 1px black;
+  padding: 1px;
+  margin-left: 150px;
+  text-transform: uppercase;
+}
+.GFG{
+  background-color:Moccasin;
+  border: 2px solid black;
+  color: maroon;
+  font-family:Arabic Typesetting;
+  padding: 5px 5px;
+  text-align: center;
+  font-size: 20px;
+  margin: 30px 10px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+</style>
+</head>
+<body background="https://wallpaperaccess.com/full/2100367.jpg";>
+<h1 style="text-align:center;background-color:bisque;border: 5px double darkolivegreen;color:maroon">
+ABOUT US 
+</h1>
+<h3 style="color:peachpuff;font-family:Lucida Handwriting" class="cursive">
+&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;AN INSIGHT TO 4BINGE
+</h3>
+<div class="myDiv">
+  <p style="font-family:Rockwell;">4BINGE was founded in December,2021 when 4 first-year students collaborated to form a digital platform.They solely aimed to provide the users with a versatility in flicks,documentaries and clips which would ultimately help them in self care and decompress after a long day.
+
+</p>
+</div>
+<h3 style="color:peachpuff;font-family:Lucida Handwriting"  class="cursive">
+    &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"UNWIND.SELECT.MUNCH"
+</h3>
+<div class="myDiv">
+  <p style="font-family:Rockwell;">As the tagline suggests,we desire that at the end when our users unwind from the day,they pick out the videos of their choice from our extensive library and enjoy it while munching on their all time favourite snacks.
+We clearly aim to provide our users with a few moments of self care where they can entertain themselves before engaging themselves with their busy schedules stressing.
+
+</p>
+</div>
+<h3 style="color:peachpuff;font-family:Lucida Handwriting" class="cursive">
+    &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;OUR TEAM
+</h3>
+<div class="hiDiv">
+  <p style="font-family:Rockwell">It all started when 4 inquisitive people belonging to different backgrounds,cultures and interests collided with each other and generated a range of ideas which ultimately led to the discovery of 4BINGE.Their hardwork and persistence led to the the success of this digital platform.
+
+</p>
+</div>
+<h3 style="color:peachpuff;font-family:Lucida Handwriting" class="cursive">
+    &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;KNOW MORE ABOUT US 
+</h3>
+  <div class="element"; background="https://img.freepik.com/free-vector/low-poly-abstract-white-golden-lines-background_1017-26507.jpg?size=626&ext=jpg">
+  <a href="Mannat.html#khushi">    <button class="GFG" >
+       KHUSHI SHARMA
+      </button></a>
+  </div>
+  
+  <div class="element">
+      <a href="Mannat.html#mannat"><button class="GFG" >
+        MANNAT GARG
+      </button></a>
+  </div>
+  <div class="element">
+    <a href="Mannat.html#manvi">
+    <button class="GFG" >
+        MANVI GUPTA
+    </button> </a>
+  </div>
+  <div class="element">
+    <a href="Mannat.html#nandini">
+    <button class="GFG" >
+        NANDINI BHATNAGAR
+    </button></a>
+   
+  </div>
+</body>
+</html>

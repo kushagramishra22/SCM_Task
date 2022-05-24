@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>North indian cuisine(dish no 1)</title>
+        <link href="index1.css" rel="stylesheet">
+        <body>
+            <div id="sum">rogan</div><div id="sum">josh</div>
+            <img src="https://d3j4nopn8wm92b.cloudfront.net/sites/default/files/styles/recipe_main/public/Kashmir%20ki%20rogan%20josh_0.jpg?itok=XwZX-nly" id="link" style="float:left"> 
+            <ul id="table" > 
+               <li>Total Time:
+                   <span>2h 20m</span>
+               </li>
+               <li>Prep Time:
+                   <span>20m</span>
+               </li>
+               <li>Calories:
+                   <span>450</span>
+               </li>
+               <li>Serving:
+                   <span>4</span>
+               </li>
+           </ul>
+           <br>
+           <div id="main">ingredients</div>
+            <ul id="mal">
+             <li>Fennel seeds powder - 1 tablespoon</li>
+             <li>Ginger powder - 3/4 tablespoons.</li>
+             <li>Kashmiri red chili powder - 1+1/2 tablespoons.</li>
+             <li>Saffron - pinch.</li>
+             <li>Cumin seeds - 1/4 tea spoon.</li>
+             <li>Mace/javitri - 2 numbers.</li>
+             <li>Green cardamom - 6 numbers.</li>
+             <li>Cinnamon sticks (small) - 4 piece.</li>
+             <li>Black cardamom - 4 numbers.</li>
+             <li>Mutton - 500 grams.</li>
+             <li>Salt - to taste.</li>
+             <li>Hing/asafoetida - 1/4 tea spoon.</li>
+             <li>Ghee - 2 tablespoons</li>
+             <li>Water - as required.</li>
+            </ul>
+           <div id="main">instructions</div>
+           <ul>
+           <div>
+               <li id="josh">Step 1 Saute the whole spices in ghee and prepare saffron milk</li>
+               <li id="kilo">To prepare this delicacy, first, prepare the saffron milk by soaking saffron in milk. Next, put a pressure cooker and heat ghee in it. When the ghee is hot enough, add the whole spices and fry for a few seconds.</li>
+               <br>
+               <li id="josh">Step 2 Cook mutton with the whole spices</li>
+               <li id="kilo">Then, add whole red chillies, cumin seeds and asafoetida in the pressure cooker and fry for a few seconds. Afterwards, add the mutton pieces in it and stir well. Cover with the lid but don’t close it and cook the mutton for 5-6 minutes on medium to high flame. You will notice the meat will turn light brown in colour. After 5 minutes, remove the lid and add 1/2 cup of water in it and stir well with the spices. This will help the mutton in soaking the flavours of all the spices. Then, lower the flame and cook the mutton for 10-15 minutes.</li>
+               <br>
+               <li id="josh">Step 3 Mix yoghurt with saffron milk and other spices</li>
+               <li id="kilo">Meanwhile, take a small bowl and add all-purpose flour along with yoghurt in it, mix well. In this yoghurt mixture, add saffron milk (step 1), salt, fennel powder, coriander powder, Kashmiri red chilli powder and dry ginger powder (sonth powder). Mix all the spices well in the yoghurt. Once done, add into the pressure cooker. Stir well using a ladle and cook the mutton in yoghurt for at least a minute.</li>
+               <br>
+               <li id="josh">Step 4 Add this yoghurt mixture in pressure cooker and slow cook the mutton for 1-2 hours</li>
+               <li id="kilo" class="ove">Then, add 1 cup of water in the pressure cooker and slow cook the mutton for 1-2 hours. Stir in between so that it doesn’t stick to the bottom. You can also pressure cook the mutton for 5-6 whistles. Once done, garnish and serve hot with chapati or naan. You can also enjoy this dish with rice.</li>
+               <br>
+               <hr>
+            <div id="plus">jalebi</div><br>
+            <img src="https://ashokcatering.com/dessert/jj1.jpg" id="west" style="float:left" height="320px" width="400px">
+            <br>
+            <ul id="table">
+                <li>Total Time:
+                    <span>35m</span>
+                </li>
+                <li>Cook Time:
+                    <span>15m</span>
+                </li>
+                <li>Prep Time:
+                    <span>20m</span>
+                </li>
+                <li>Serving:
+                    <span>3</span>
+                </li>
+            </ul>
+            <div id="main">ingredients</div>
+            <ul id="eye">
+             <li>1 jalebi making cloth or sauce bottle</li>
+             <li>200 gm all purpose flour ( maida)</li>
+             <li>1 tablespoon yogurt</li>
+             <li> Water as required</li>
+             <li>2 cup sugar</li>
+             <li>1 cup water</li>
+             <li>One drop orange food color (optional)</li>
+             <li>1/4 teaspoon elaichi powder</li>
+             <li>Ghee or oil for frying</li>
+            </ul>
+            <br>
+            <div id="main">instructions</div>
+            <div id="josh">How to make jalebi Fermentation</div>
+            <div id="kilo">
+            <ul id="eye"> 
+                <li>Take the maida in a mixing bowl and add the curd.</li>
+                <li>Mix it with the flour.</li>
+                <li>Pour water and mix to make a very thick batter.</li>
+                <li> After fermentation it will become smooth and free.</li> 
+                <li>Keep the batter at a room temperature for 10 - 12 hours to ferment.</li>
+                <li>You will notice that some bubbles are formed over the batter after the fermentation.</li>
+            </div>
+            <div id="josh">Making jalebi batter</div>
+            <div id="kilo">
+            <ul id="eye">
+                <li>Take the fermented batter and start to mix with a spoon or whisk to make it uniform.</li>
+                <li>We need a thick free flowing batter for the jalebi. If it is thin then add some flour and mix.</li>
+            </ul>        
+            </div>
+            <div id="josh">Making sugar syrup</div
+            <div id="kilo">
+            <ul id="eye">
+                    <li>Take the sugar and water in a pot and heat over medium flame.</li>
+                    <li> Stir constantly till the suger melt.</li>
+                    <li>Cook the syrup till you get one string consistency.</li>
+                    <li>Add cardamom powder and remove.</li>
+            </ul>
+            </div>
+            <div id="josh">Making the jalebi</div>
+            <div id="kilo">
+            <ul id="eye">
+                <li>Heat oil or ghee in a flat vessel pan over medium heat flame.</li>
+                <li>Take the jalebi batter in a sauce bottle or jalebi cloth.</li>
+                <li>When the oil become hot lower the gas flame to low.</li>
+                <li>Squeeze the batter in the bottle or cloth in hot oil, making spiral motion from inside to outside.</li> 
+                <li>Keep the temperature of the oil to low while piping the batter. Otherwise you won't be able to make the shape.</li>
+                <li>If the batter is dispersing in oil then it is too thin. Add some flour and fix it.</li>
+                <li>Once you made the spiral shape, continue to make more jalebi continuously.</li>
+                <li> Cook them on low flame till crisp and golden by flipping them at regular intervals.</li>
+                <li>Remove and drain any excess oil from them. </li>
+                <li> Dip them into the light warm sugar syrup and allow to rest for 2 minutes to absorb the syrup.</li>
+                <li>Remove them from sugar syrup and serve with rabdi or milk. </li>
+            </ul>
+            </div>
+            <hr>
+            <div id="plus">lassi</div><br>
+            <img src="https://images.indianexpress.com/2019/12/Buttermilk_759.jpg" height="370px" width="420px">
+            <br>
+            <ul id="pin">
+                <li>Total Time:
+                    <span>6m</span>
+                </li>
+                <li>Cook Time:
+                    <span>1m</span>
+                </li>
+                <li>Prep Time:
+                    <span>5m</span>
+                </li>
+                <li>Serving:
+                    <span>4</span>
+                </li>
+            </ul>
+            <div id="main">ingredients</div>
+            <div id="josh">For The Chaach</div>
+            <ul id="eye"> 
+             <li>2 cups fresh curd(dahi) , whisked</li>
+             <li>1 tsp cumin seeds(jeera) pwder</li>
+             <li>1/2 tsp ginger-green chilli paste</li>
+             <li>1/2 tsp black-salt(sanchal)</li>
+             <li>salt to taste</li>
+             <li>1 tsp oil</li>
+             <li>1/4 tsp cumin seeds(jeera)</li>
+             <li>pinch of asafoetida(hing)</li>
+            </ul>
+             <br>
+            <div id="josh">For the chaach Garnishing</div>
+            <ul id="eye">
+                <li>2 tbsp finely chopped coriander(dhania)</li>
+            </ul>
+            <div id="main">instructions</div>
+            <div id="kilo">
+                <ul id="eye">
+                    <li>To make a chaach, combine the curds, cumin seeds powder, ginger-green chilli paste, black salt and salt in a deep bowl and mix well.</li>
+                    <li>Add 4 cups of chilled water and wisk well. Keep aside.</li>
+                    <li>For the tempering, heat the oil in a small pan and add the cumin seeds. </li>
+                    <li>When the seeds crackle, add the asafoetoida and pour the tempering over the buttermilk.</li>
+                    <li>Serve the chaach chilled garnished with coriander.</li>
+                </ul>
+            </div>
+            <hr>
+         </body>
+    </head>
+</html>

@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>south indian cuisine</title>
+        <link href="index1.css" rel="stylesheet">
+        <body>
+            <div id="sum">thukpa</div>
+            <img src="https://www.awesomecuisine.com/wp-content/uploads/2020/03/chicken-thukpa-500x500.jpg">
+            <ul> 
+               <li>Total Time:
+                   <span>55m</span>
+               </li>
+               <li>Prep Time:
+                   <span>15m</span>
+               </li>
+               <li>Cook time:
+                   <span>40m</span>
+               </li>
+               <li>Serving:
+                   <span>2</span>
+               </li>
+           </ul>
+           <div id="main">ingredients</div>
+           <div>
+            <ul id="mal">
+             <li>2 Chicken legs</li>
+             <li>1 Onion</li>
+             <li>1 Carrot</li>
+             <li>5 Ginger</li>
+             <li>7 Spring onions</li>
+             <li>3 Green chilies</li>
+             <li>Coriander leaves</li>
+             <li>4-5 Garlic cloves</li>
+             <li>Salt</li>
+             <li>1/2 Lemon</li>
+             <li>200 ml water</li>
+             <li>1 tsp honey</li>
+             <li>1 tsp soy sauce</li>
+             <li>2 tbsp olive oil</li>
+             <li>Handful of egg noodles</li>
+             </ul>
+             </div>
+           <div id="main">instructions</div>
+           <ul>
+           <div>
+            <ul id="eye"> 
+            <li>De-join the 2 chicken legs</li>
+            <li>Julienne 5 gm ginger. Chop 5-6 spring onions and halve 3 green chilies. Finely chop 4-5 garlic cloves.</li>
+            <li>Heat 2 Tbsp olive oil and shallow fry the chicken till it turns light brown</li>
+            <li>Now add chopped onion, and sliced carrot to the chicken.</li> 
+            <li>Then add ginger, garlic, spring onions and green chilies.</li>
+            <li>Sprinkle salt, pepper and some fresh coriander leaves and saute.</li>
+            <li>Add 200 ml of water and let it simmer for about 2-3 minutes.</li>
+            <li>Squeeze in 1/2 lemon.</li>
+            <li>Add 1 tsp of soya sauce and 1 tsp of honey.</li>
+            <li>Stir the broth gently and cover it.</li>
+            <li>Let it simmer away for 10 minutes.</li>
+            <li>Remove the chicken from the broth and shred it</li>
+            <li>Add handful of egg noodles in the broth and cook for 5 minutes.</li>
+            <li>Now add the shredded chicken back in the broth and let it cook for 2-3 minutes.</li>
+            <li>Garnish with some spring onions, green chili and fresh coriander</li>
+        </div>
+               <hr>
+               <div id="sum">rajbhog</div><br>
+            <img src="https://i0.wp.com/binjalsvegkitchen.com/wp-content/uploads/2016/10/Rajbhog-H2.jpg?w=600&ssl=1">
+            <ul>
+                <li>Total Time:
+                    <span>35m</span>
+                </li>
+                <li>Cook Time:
+                    <span>30m</span>
+                </li>
+                <li>Prep Time:
+                    <span>15m</span>
+                </li>
+                <li>Serving:
+                    <span>3</span>
+                </li>
+            </ul>
+            <div id="main">ingredients</div>
+            <div id="josh">For chena/fresh paneer</div>
+            <ul id="eye">
+             <li>1 ½ Litter Milk</li>
+             <li>1 tbsp Vinegar/ or 2 Lemon Juice or ½ tsp Tartaric Acid</li>
+             </ul>
+             <div id="josh">For sugar syrup</div>
+            <ul id="eye">
+             <li>4 cup Sugar</li>
+             <li>½ tsp Saffron Threads</li>
+             <li>4-5 Whole Green Cardamom</li>
+             <li>1 tsp Rose Water</li>
+             </ul>
+             <div id="josh">For sugar syrup</div>
+             <ul id="eye">
+                 <li>1 tbsp Arrowroot Powder/1 tsp Fine Semolina</li>
+                <li>¼ tsp Cardamom Powder</li>
+                <li>¼ tsp Yellow Food Color</li>
+                <li>2-3 tbsp Coarsely Grinded Mixed Dry Fruit (Almond, Cashew and Pistachios) for Stuffing</li>
+            </ul>
+            <div id="josh">For stuffing</div>
+             <ul id="eye">
+                 <li>2-3 tablespoons blanched and chopped or coarsely ponded mixed dry fruit (almond, cashew and pistachios)</li>
+                <li>1/4 teaspoon crushed green cardamom seeds, optional</li>
+                <li>Few saffron strands (kesar), optional</li>
+            </ul>
+            <div id="josh">other Ingredients For Paneer Dough </div>
+             <ul id="eye">
+                 <li>1 tablespoon arrowroot powder or fine semolina</li>
+                <li>1/4 teaspoon cardamom powder (elaichi powder)</li>
+                <li>1/4 teaspoon yellow food color</li>
+            </ul>
+            <div id="main">instructions</div>
+                <div id="josh">How To Make Chena/paneer: </div>
+                <div>
+                 <ul id="eye"> 
+                 <li>For making chena, add 1-liter full cream milk to the pan, and let it come to a boil.</li>
+                 <li>Once the milk starts boiling, turn the heat to low and start adding the acidic agent (lemon juice, vinegar, citric acid) little by little.</li>
+                 <li>Keep stirring until the milk is curdled and the whey (light green water) is separated from the milk completely. Turn off the heat.</li>
+                 <li>Now place a muslin cloth or a cotton cloth over a colander.</li> 
+                 <li>To drain, pour the coagulated milk over the cloth and rinse well with the ice-cold water to discard the whey.</li>
+                 <li>Gather up the cloth from all the sides.</li>
+                 <li>Squeeze it well to take out the excess water. Hang it on tap for about 30 minutes.</li>
+                 <li>After 30 minutes, remvoe chena from the cloth. Chena is now ready for use. Keep it aside.</li>
+                </ul>            
+            </div>  
+                <div id="josh">How To Make Stuffing For Rajbhog: </div>
+                <div>
+                 <ul id="eye"> 
+                 <li>Add blanched and chopped/crushed dry fruits to a mixing bowl. Now add cardamom powder and saffron strands to it, and mix everything well. Stuffing is ready.</li>
+                </ul>            
+            </div> 
+            <div id="josh">How To Make Paneer Dough For Rajbhog : </div>
+                <div>
+                 <ul id="eye"> 
+                 <li>Take out chena on a big plate and start kneading it until smooth. This would take about 5 minutes.</li>
+                 <li>The best way to knead the chenna dough is by rubbing it with the end of your palm.</li>
+                 <li>Now, add arrowroot/semolina to chena along with food color, cardamom powder, and mix well to combine.</li>
+                 <li>Keep kneading until the dough is ready.</li> 
+                 <li>The dough is ready when chenna holds a dough shape and it doesn’t fall apart when you break it. If you have reached this stage then chena dough for making rajbhog is ready. You can now shape it into rajbhog balls.</li>
+                </ul>            
+            </div> 
+            <div id="josh">How To Make Chena Balls For Rajbhog : </div>
+                <div>
+                 <ul id="eye"> 
+                 <li>Divide paneer/chena dough into 12-14 small equal pieces. Take one chena portion and roll it.</li>
+                 <li>Flatten it into a circle using your fingers</li>
+                 <li>Add 1 teaspoon of dry fruit stuffing to the center.</li>
+                 <li>Pull up the chena circle from all sides and seal the edges to hide the stuffing entirely.</li> 
+                 <li>Roll it again into a smooth crack-free ball.</li>
+                 <li>Place it on a plate and similarly assemble all chena balls for rajbhog.</li>
+                </ul>            
+            </div>  
+            <div id="josh">How To  Make Sugar Syrup : </div>
+                <div>
+                 <ul id="eye"> 
+                 <li>Add 2 cups of sugar and 6 cups of water to a broad and deep saucepan.</li>
+                 <li>Stir well and let the sugar melt completely.</li>
+                 <li>Add saffron strands and cardamom powder to it.</li>
+                 <li>Stir well again and let it boil on high heat for 7-8 minutes. The syrup is ready.</li> 
+                </ul>            
+            </div> 
+            <div id="josh">How To Cook Rajbhog </div>
+                <div>
+                 <ul id="eye"> 
+                 <li>Drop rajbhog paneer balls one by one into the boiling sugar syrup.</li>
+                 <li>Cover and cook rajbhog for 15 minutes on high heat. Balls would turn double in size. Turn the heat to medium and keep boiling for 3-5 minutes. (At this stage, you can add 3-4 tbsp of water, if the syrup is thickened too much).</li>
+                 <li>Turn off the heat and let them cool completely at room temperature.</li>
+                </ul>            
+            </div>  
+            <div id="josh">How To serve Rajbhog </div>
+                <div>
+                 <ul id="eye"> 
+                 <li>After cooling, refrigerate rajbhog along with sugar syrup for 3-4 hours. Rajbhog is ready. Serve it chilled as an after-meal dessert.</li>
+                </ul>            
+            </div>  
+            <hr>
+            <div id="sum">quishr</div><br>
+            <img src="https://www.vegrecipesofindia.com/wp-content/uploads/2015/03/lemon-squash-recipe.jpg">
+            <ul>
+                <li>Total Time:
+                    <span>5m</span>
+                </li>
+                <li>Cook Time:
+          
+                    <span>0m</span>
+                </li>
+                <li>Prep Time:
+                    <span>5m</span>
+                </li>
+                <li>Serving:
+                    <span>2</span>
+                </li>
+            </ul>
+            <div id="main">ingredients</div>
+            <ul id="eye"> 
+             <li>4 small or 2 medium-size limes</li>
+             <li>3 tablespoons honey</li>
+             <li>1 1/4 cups (10 ounces) carbonated water (mineral water, club soda, etc.)</li>
+            </ul>
+            <div id="main">instructions</div>
+            <div id="kilo">
+            <ul id="eye">
+                <li>For the maximum juice, roll the limes over the counter back and forth with the palm of your hand. Cut the limes in half and juice them by hand or with a juicer. You should have 1/2 cup (4 ounces) of juice. Put the juice and honey into a bowl and mix well with a wire whisk or fork. Pour the mixture into a pitcher. Add the carbonated water and stir until all of the ingredients are well combined. Taste and adjust it for the desired sweetness. Serve it over ice</li>
+            </ul>
+            </div>
+            <hr>
+         </body>
+    </head>
+</html>
