@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>south indian cuisine</title>
+        <title>north indian cuisine</title>
         <link href="index1.css" rel="stylesheet">
         <body>
             <div id="sum">thukpa</div>
